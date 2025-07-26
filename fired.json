@@ -1,0 +1,681 @@
+[
+  {
+    "Name": "Allison Cho",
+    "Job/Role": "Newsletter editor",
+    "Publication / New Role": "CNN",
+    "Announced Date": "11/1/2024",
+    "photo_link": "photos/Allison.Cho.png"
+  },
+  {
+    "Name": "Monica Ulmanu",
+    "Job/Role": "Visual journo in climate",
+    "Publication / New Role": "NYT",
+    "Announced Date": "11/25/2024",
+    "photo_link": "photos/Monica.Ulmanu.png"
+  },
+  {
+    "Name": "Hannah Allam",
+    "Job/Role": "National security reporter",
+    "Publication / New Role": "ProPublica",
+    "Announced Date": "11/26/2024",
+    "photo_link": "photos/Hannah.Allam.png"
+  },
+  {
+    "Name": "Matea Gold",
+    "Job/Role": "Managing editor",
+    "Publication / New Role": "NYT",
+    "Announced Date": "12/9/2024",
+    "photo_link": "photos/Matea.Gold.jpg"
+  },
+  {
+    "Name": "Chuck Lane",
+    "Job/Role": "Deputy opinion editor and columnist",
+    "Publication / New Role": "The Free Press",
+    "Announced Date": "12/13/2024",
+    "photo_link": "photos/Chuck.Lane.jpg"
+  },
+  {
+    "Name": "Amanda Katz",
+    "Job/Role": "Senior opinions assignment editor",
+    "Publication / New Role": "“other projects”",
+    "Announced Date": "12/13/2024",
+    "photo_link": "photos/Amanda.Katz.jpg"
+  },
+  {
+    "Name": "Grace Moon",
+    "Job/Role": "Seoul global audience editor",
+    "Publication / New Role": "freelance",
+    "Announced Date": "12/13/2024",
+    "photo_link": "photos/Grace.Moon.jpg"
+  },
+  {
+    "Name": "Nick Parker",
+    "Job/Role": "GA deputy editor reporter",
+    "Publication / New Role": "“other opportunities”",
+    "Announced Date": "12/19/2024",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "McKenzie Beard",
+    "Job/Role": "Researcher",
+    "Publication / New Role": "NY Post",
+    "Announced Date": "12/19/2024",
+    "photo_link": "photos/McKenzie.Beard.jpg"
+  },
+  {
+    "Name": "Ashley Parker",
+    "Job/Role": "National politics reporter",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "12/31/2024",
+    "photo_link": "photos/Ashley.Parker.jpg"
+  },
+  {
+    "Name": "Michael Scherer",
+    "Job/Role": "National politics reporter",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "12/31/2024",
+    "photo_link": "photos/Michael.Scherer.jpg"
+  },
+  {
+    "Name": "Kathy O’Hearn",
+    "Job/Role": "Exec Dir Wash Post Live",
+    "Publication / New Role": "Other opportunity",
+    "Announced Date": "1/3/2025",
+    "photo_link": "photos/Kathy.O’Hearn.jpg"
+  },
+  {
+    "Name": "Ann Telnaes",
+    "Job/Role": "Editorial cartoonist",
+    "Publication / New Role": "Freelance?",
+    "Announced Date": "1/3/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Josh Dawsey",
+    "Job/Role": "National politics reporter",
+    "Publication / New Role": "WSJ",
+    "Announced Date": "1/6/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Leigh Ann Caldwell",
+    "Job/Role": "Early 202 & WapoLive anchor",
+    "Publication / New Role": "Puck",
+    "Announced Date": "1/6/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Tracy Jan",
+    "Job/Role": "Deputy health and science editor",
+    "Publication / New Role": "ProPublica",
+    "Announced Date": "1/8/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Steve Smith",
+    "Job/Role": "Health and Science editor",
+    "Publication / New Role": "NYT",
+    "Announced Date": "1/8/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Jennifer Rubin",
+    "Job/Role": "Columnist",
+    "Publication / New Role": "The Contrarian",
+    "Announced Date": "1/13/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Jeremy Mikula",
+    "Job/Role": "Curation desk",
+    "Publication / New Role": "NBC News",
+    "Announced Date": "1/15/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Brandon Ferrill",
+    "Job/Role": "Senior designer Arts",
+    "Publication / New Role": "NatGeo",
+    "Announced Date": "1/16/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Rosalind Helderman",
+    "Job/Role": "Deputy Natl investigations",
+    "Publication / New Role": "NYT",
+    "Announced Date": "1/17/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Tim Elfrink",
+    "Job/Role": "Deputy political investigations editor",
+    "Publication / New Role": "CNN",
+    "Announced Date": "1/17/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Jon Gerberg",
+    "Job/Role": "Senior video journalist",
+    "Publication / New Role": "NBC News",
+    "Announced Date": "1/17/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Phil Rucker",
+    "Job/Role": "National editor",
+    "Publication / New Role": "CNN",
+    "Announced Date": "1/21/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Ana Campoy",
+    "Job/Role": "Climate assignment editor",
+    "Publication / New Role": "Other opportunities",
+    "Announced Date": "1/21/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Griff Witte",
+    "Job/Role": "Sr. Politics & democracy editor",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "1/22/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Reuben Fischer-Baum",
+    "Job/Role": "Sr. Graphics assignment editor",
+    "Publication / New Role": "Yahoo!",
+    "Announced Date": "1/22/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Bryan Pietsch",
+    "Job/Role": "Foreign breaking news",
+    "Publication / New Role": "Bloomberg",
+    "Announced Date": "1/24/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Monica Campbell",
+    "Job/Role": "Editor in audio",
+    "Publication / New Role": "Cal Berkeley",
+    "Announced Date": "1/24/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Peter Wallsten",
+    "Job/Role": "Investigations Dept editor",
+    "Publication / New Role": "NYT",
+    "Announced Date": "1/29/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Greg Jaffe",
+    "Job/Role": "National reporter",
+    "Publication / New Role": "NYT",
+    "Announced Date": "1/30/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Sandra Stevenson",
+    "Job/Role": "Deputy director of photography",
+    "Publication / New Role": "Other opportunities",
+    "Announced Date": "2/11/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Cristiano-Lima Strong",
+    "Job/Role": "Tech reporter",
+    "Publication / New Role": "Tech Policy Press",
+    "Announced Date": "2/12/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Nick Miroff",
+    "Job/Role": "National immigration",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "2/13/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Isaac Stanley-Becker",
+    "Job/Role": "National investigative",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "2/13/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Garland Potts",
+    "Job/Role": "News designer",
+    "Publication / New Role": "Philadelphia Inquirer",
+    "Announced Date": "2/14/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Ben Terris",
+    "Job/Role": "Style politics",
+    "Publication / New Role": "New York magazine",
+    "Announced Date": "2/14/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Amy Fiscus",
+    "Job/Role": "Deputy National editor",
+    "Publication / New Role": "NYT",
+    "Announced Date": "2/20/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Caroline Kitchener",
+    "Job/Role": "Investigative",
+    "Publication / New Role": "NYT",
+    "Announced Date": "2/21/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Tony Romm",
+    "Job/Role": "Congressional economy",
+    "Publication / New Role": "NYT",
+    "Announced Date": "2/21/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Steven Rich",
+    "Job/Role": "Investigative data",
+    "Publication / New Role": "NYT",
+    "Announced Date": "2/25/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "David Shipley",
+    "Job/Role": "Opinions editor",
+    "Publication / New Role": "New Yorker",
+    "Announced Date": "2/26/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Ruth Marcus",
+    "Job/Role": "Opinions columnist",
+    "Publication / New Role": "(unstated)",
+    "Announced Date": "3/10/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Eddie Alvarez",
+    "Job/Role": "Design",
+    "Publication / New Role": "(unstated)",
+    "Announced Date": "3/19/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Kate Rabinowitz",
+    "Job/Role": "Graphics editor",
+    "Publication / New Role": "(unstated)",
+    "Announced Date": "4/3/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Gene Robinson",
+    "Job/Role": "Editorial columnist",
+    "Publication / New Role": "(unstated)",
+    "Announced Date": "4/3/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Matt Zapotosky",
+    "Job/Role": "Local editor",
+    "Publication / New Role": "CNN",
+    "Announced Date": "4/7/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Gus Garcia-Roberts",
+    "Job/Role": "(unspecified)",
+    "Publication / New Role": "ProPublica",
+    "Announced Date": "4/9/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Jenna Johnson",
+    "Job/Role": "National Immigration editor",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "4/11/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Jessica Koscielniak",
+    "Job/Role": "Video",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "4/11/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Sarah Frostenson",
+    "Job/Role": "National visual editor",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "4/17/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Will Sommer",
+    "Job/Role": "Style media",
+    "Publication / New Role": "The Bulwark",
+    "Announced Date": "Not yet announced",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Dan Zak",
+    "Job/Role": "Style assignment editor",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "4/15/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Missy Ryan",
+    "Job/Role": "National military",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "5/1/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Audrey Valbuena",
+    "Job/Role": "Design",
+    "Publication / New Role": "Wall Street Journal",
+    "Announced Date": "5/1/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Jose del Real",
+    "Job/Role": "National politics",
+    "Publication / New Role": "Other opportunities",
+    "Announced Date": "5/1/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Christina Macholan",
+    "Job/Role": "Dep. head of audience",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "5/5/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Aaron Blake",
+    "Job/Role": "Politics columnist",
+    "Publication / New Role": "CNN",
+    "Announced Date": "5/8/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Amanda Morris",
+    "Job/Role": "National disability reporter",
+    "Publication / New Role": "Unstated",
+    "Announced Date": "5/9/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Cathleen Decker",
+    "Job/Role": "Editor on National",
+    "Publication / New Role": "Retirement",
+    "Announced Date": "5/15/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Joyce Lau",
+    "Job/Role": "Breaking news editor",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "6/6/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Maxine Joselow",
+    "Job/Role": "Climate202",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "6/10/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Chris Alcantara",
+    "Job/Role": "Data journalism",
+    "Publication / New Role": "ProPublica",
+    "Announced Date": "6/13/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Travis Lyles",
+    "Job/Role": "Deputy director social media",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "6/16/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Abigail Hauslohner",
+    "Job/Role": "National security (buyout)",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "6/17/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Marian Chia-Ming Liu",
+    "Job/Role": "(unspecified)",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "6/18/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Toluse Olorunnipa",
+    "Job/Role": "White House bureau chief",
+    "Publication / New Role": "Atlantic",
+    "Announced Date": "6/18/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Drew Goins",
+    "Job/Role": "Opinions",
+    "Publication / New Role": "??",
+    "Announced Date": "6/26/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Molly Roberts",
+    "Job/Role": "Opinions",
+    "Publication / New Role": "??",
+    "Announced Date": "6/26/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Emily Langer",
+    "Job/Role": "Obituary writer",
+    "Publication / New Role": "??",
+    "Announced Date": "6/27/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Blair Guild",
+    "Job/Role": "Video",
+    "Publication / New Role": "Other opportunity",
+    "Announced Date": "6/27/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Herb Scribner",
+    "Job/Role": "Style breaking news",
+    "Publication / New Role": "Axios",
+    "Announced Date": "6/27/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Sarah Cahlen",
+    "Job/Role": "Video forensics",
+    "Publication / New Role": "Other opportunity",
+    "Announced Date": "6/27/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Phoebe Connelly",
+    "Job/Role": "AI strategy editor",
+    "Publication / New Role": "College study",
+    "Announced Date": "6/30/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Jennie Pirog",
+    "Job/Role": "Sr. Editor WP Ventures",
+    "Publication / New Role": "Other adventures",
+    "Announced Date": "7/2/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Brian Murphy",
+    "Job/Role": "Obits",
+    "Publication / New Role": "??",
+    "Announced Date": "7/9/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Hank Stuever",
+    "Job/Role": "Dep. Features Editor (buyout)",
+    "Publication / New Role": "??",
+    "Announced Date": "7/9/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Gene Fynes",
+    "Job/Role": "Copy desk",
+    "Publication / New Role": "??",
+    "Announced Date": "7/10/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Sarah Hashemi",
+    "Job/Role": "Video graphics",
+    "Publication / New Role": "Other opportunities",
+    "Announced Date": "7/10/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Mark Miller",
+    "Job/Role": "Photo editor",
+    "Publication / New Role": "New adventures",
+    "Announced Date": "7/11/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Kevin Uhrmacher",
+    "Job/Role": "Graphics assignment editor",
+    "Publication / New Role": "ProPublica",
+    "Announced Date": "7/11/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Dan Balz",
+    "Job/Role": "National politics reporter/columnist",
+    "Publication / New Role": "Semi-retirement",
+    "Announced Date": "7/15/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Joel Achenbach",
+    "Job/Role": "National (buyout)",
+    "Publication / New Role": "Unstated",
+    "Announced Date": "7/16/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Ann Marriomow",
+    "Job/Role": "National courts",
+    "Publication / New Role": "NYT",
+    "Announced Date": "7/16/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Gene Fynes",
+    "Job/Role": "Live desk chief",
+    "Publication / New Role": "Unstated",
+    "Announced Date": "7/17/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Adam Bernstein",
+    "Job/Role": "Obituary editor",
+    "Publication / New Role": "Unstated",
+    "Announced Date": "7/17/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Keith McMillan",
+    "Job/Role": "GA Desk editor",
+    "Publication / New Role": "New adventures",
+    "Announced Date": "7/18/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Joe Snell",
+    "Job/Role": "Foreign reporter",
+    "Publication / New Role": "New opportunity",
+    "Announced Date": "7/18/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Steve Goff",
+    "Job/Role": "Sports reporter (buyout)",
+    "Publication / New Role": "Freelancing",
+    "Announced Date": "7/18/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Dave Jorgensen",
+    "Job/Role": "TikTok content creator",
+    "Publication / New Role": "Start video company",
+    "Announced Date": "7/21/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Dan Steinberg",
+    "Job/Role": "Sports",
+    "Publication / New Role": "Athletic",
+    "Announced Date": "7/22/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Bill Branigan",
+    "Job/Role": "Live editing desk",
+    "Publication / New Role": "Retirement",
+    "Announced Date": "7/23/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Billy Tucker",
+    "Job/Role": "Video",
+    "Publication / New Role": "Other opportunities",
+    "Announced Date": "7/23/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Catherine Rampell",
+    "Job/Role": "Econ columnist (buyout)",
+    "Publication / New Role": "???",
+    "Announced Date": "7/23/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Dan Keating",
+    "Job/Role": "Data reporter",
+    "Publication / New Role": "Retirement",
+    "Announced Date": "7/24/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "Manuel Roig-Franzia",
+    "Job/Role": "Features writer (buyout)",
+    "Publication / New Role": "New projects",
+    "Announced Date": "7/24/2025",
+    "photo_link": "placeholder.jpg"
+  },
+  {
+    "Name": "FIVE more",
+    "Job/Role": "Confirmed but not announced",
+    "Publication / New Role": "-",
+    "Announced Date": "-",
+    "photo_link": "placeholder.jpg"
+  }
+]

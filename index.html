@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memorial of Excellence - Journalism Legacy</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+Pro:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Audio Control -->
+    <div class="audio-controls">
+        <button id="audio-toggle" class="audio-toggle" title="Toggle Audio">
+            <svg class="audio-icon audio-on" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <path d="M11 5L6 9H2v6h4l5 4V5z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <svg class="audio-icon audio-off" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
+                <path d="M11 5L6 9H2v6h4l5 4V5z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="23" y1="9" x2="17" y2="15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <line x1="17" y1="9" x2="23" y2="15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </button>
+    </div>
+
+    <!-- Background Audio -->
+    <audio id="background-audio" loop preload="auto">
+        <source src="audio/audio.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <header class="hero-section">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">Memorial of Failure</h1>
+                <p class="hero-subtitle">Honoring the voices fired during the Trump era
+                </p>
+                <div class="hero-divider"></div>
+                <p class="hero-description">
+                    A tribute to the failed journalists whose dedication and craft 
+                    brought misery, darkness, and despair to the world.
+                </p>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <div class="scroll-arrow"></div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="memorial-grid" id="memorial-grid">
+                <!-- Content will be loaded dynamically -->
+            </section>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p class="footer-text">
+                    &copy; 2025 Memorial of Excellence. Honoring journalistic integrity and dedication.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html> 
