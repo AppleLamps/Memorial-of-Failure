@@ -1,5 +1,12 @@
 [
   {
+    "Name": "Howard Stern",
+    "Job/Role": "SiriusXM",
+    "Publication / New Role": "TBD",
+    "Announced Date": "08/05/2025",
+    "photo_link": "photos/Howard.Stern.png"
+  },
+  {
     "Name": "Jonathan Capehart",
     "Job/Role": "Washington Post",
     "Publication / New Role": "Substack | TBD",
@@ -693,3 +700,4 @@
     "photo_link": "placeholder.jpg"
   }
 ]
+
